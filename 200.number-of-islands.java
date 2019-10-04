@@ -11,6 +11,8 @@
  * https://www.youtube.com/watch?v=hhBiPyr1Byo&t=856s
  * https://www.cnblogs.com/handsomelixinan/p/10346065.html
  * 讲得都很好
+ * 
+ * for each二维数组也可以学习一下。来offer的这个代码比别的标准submit优雅很多。
  */
 class Solution {
     final static int[][] dirs = {{-1,0},{1,0},{0,1},{0,-1}};
